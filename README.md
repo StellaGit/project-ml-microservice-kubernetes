@@ -1,4 +1,4 @@
-<img scr="circleci_success.PNG"/>
+<img src="circleci_success.PNG"/>
 
 ## Project Overview
 
