@@ -1,4 +1,4 @@
-<img src="circleci_success.PNG"/>
+[![CircleCI](https://circleci.com/gh/StellaGit/project-ml-microservice-kubernetes/tree/main.svg?style=svg)](https://circleci.com/gh/StellaGit/project-ml-microservice-kubernetes/tree/main)
 
 ## Project Overview
 
